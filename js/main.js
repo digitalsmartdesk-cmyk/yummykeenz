@@ -1,11 +1,11 @@
 (function () {
   var flavors = [
-    { name: "Chatpata Mix", tagline: "Perfect balance of taste, light & crunchy.", img: "assets/yk1.jpg", alt: "Chatpata Mix pack", category: "Light Namkeen", tint: "#2B6E4F" },
-    { name: "Corn Crunch Mix", tagline: "Extra crunch, extra munch — made with real corn.", img: "assets/yk2.jpg", alt: "Corn Crunch Mix pack", category: "Extra Crunchy", tint: "#E8720C" },
-    { name: "Hing Jeera Mix", tagline: "Hing flavour, jeera goodness — light & digestive.", img: "assets/yk3.jpg", alt: "Hing Jeera Mix pack", category: "Digestive", tint: "#6B4226" },
-    { name: "Pudina Mix", tagline: "Cool mint flavour, deliciously refreshing.", img: "assets/yk4.jpg", alt: "Pudina Mix pack", category: "Minty Fresh", tint: "#4E8F3B" },
-    { name: "Teekha Mix", tagline: "Bold flavour, irresistible crunch, hot & spicy.", img: "assets/yk5.jpg", alt: "Teekha Mix pack", category: "Hot & Spicy", tint: "#C81E2A" },
-    { name: "Indori Mix", tagline: "Sweet & spicy — irresistible taste, anytime.", img: "assets/yk6.jpg", alt: "Indori Mix pack", category: "Sweet & Spicy", tint: "#9E1B22" }
+    { name: "Classic Bombay Mixture", tagline: "The everyday namkeen classic — sev, peanuts & spice, Mumbai style.", img: "assets/flavor1.jpg", alt: "Classic Bombay Mixture pack", category: "Everyday Classic", tint: "#1F3F73" },
+    { name: "Spicy Masala Mixture", tagline: "Bold masala, big crunch — turned up for the heat-seekers.", img: "assets/flavor2.jpg", alt: "Spicy Masala Mixture pack", category: "Hot & Spicy", tint: "#C81E2A" },
+    { name: "Tangy Chana Jor", tagline: "Lime, tamarind & crunch — a zesty chaat-style favourite.", img: "assets/flavor3.jpg", alt: "Tangy Chana Jor pack", category: "Tangy & Zesty", tint: "#6E2A8E" },
+    { name: "Masala Peanut Mix", tagline: "A savoury peanut crunch loaded with real roasted peanuts.", img: "assets/flavor4.jpg", alt: "Masala Peanut Mix pack", category: "Peanut Crunch", tint: "#D46A1E" },
+    { name: "Cornflake Chivda", tagline: "Light flakes, big crunch — a breezy coastal-style chivda.", img: "assets/flavor5.jpg", alt: "Cornflake Chivda pack", category: "Light & Crunchy", tint: "#1E7FB8" },
+    { name: "Bikaneri Sev Mix", tagline: "Fine sev, bold spice — the royal Rajasthani classic.", img: "assets/flavor6.jpg", alt: "Bikaneri Sev Mix pack", category: "Royal Rajasthani", tint: "#B5431E" }
   ];
 
   var toppers = [
